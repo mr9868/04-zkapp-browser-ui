@@ -218,7 +218,7 @@ a {
         height: 142px;
         position: absolute;
         left: 242px;
-        top: 102px;
+        top: 101px;
 	text-align: center;
 	font-style: bold;	
 	color: grey;
@@ -230,7 +230,7 @@ a {
         height: 142px;
         position: absolute;
         left: 230px;
-        top: 135px;
+        top: 138px;
 	text-align: right;	
 	color: grey;
 	font-style: italic;
@@ -470,8 +470,9 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 215px;
-	top: 110px;
+	left: 190px;
+	top: 60px;
+/* kont */
 }
 
 .Home_backNoAccount__s1McX:hover {
@@ -482,8 +483,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 215px;
-	top: 110px;
+	left: 190px;
+	top: 60px;
 }
 
 .Home_backNoWallet__IBr_n {
@@ -494,8 +495,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 215px;
-	top: 110px;
+	left: 190px;
+	top: 60px;
 }
 
 .Home_backNoWallet__IBr_n:hover {
@@ -506,8 +507,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 215px;
-	top: 110px;
+	left: 190px;
+	top: 60px;
 }
 
 .Home_sendBtn__F6hw6 {

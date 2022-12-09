@@ -397,11 +397,11 @@ a {
 	position: absolute;
 	left: 310px;
 	top: 600px;
-	color: cyan;
-	font-size: 15px;
+	color: #448dee;
+	font-size: 16px;
 	text-align: center;
 	margin: auto;
-    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 0px 0px 1px black;
+    	text-shadow: 0 0 0 black, 1px -1px 0 white, -1px 1px 0 white, 0px 0px 1px black;
 
 }
 
@@ -470,8 +470,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 200px;
-	top: 75px;
+	left: 195px;
+	top: 82px;
 /* kont */
 }
 
@@ -483,8 +483,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 200px;
-	top: 75px;
+	left: 195px;
+	top: 82px;
 }
 
 .Home_backNoWallet__IBr_n {
@@ -495,8 +495,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 200px;
-	top: 75px;
+	left: 195px;
+	top: 82px;
 }
 
 .Home_backNoWallet__IBr_n:hover {
@@ -507,8 +507,8 @@ a {
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 200px;
-	top: 75px;
+	left: 195px;
+	top: 82px;
 }
 
 .Home_sendBtn__F6hw6 {
